@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <style name="StyleInputLayout" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="boxStrokeColor">@color/edittext_grey_background_color</item>
+        <item name="android:textColorHint">@color/black_50_opacity</item>
+        <item name="hintTextColor">@color/black_50_opacity</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+</resources>

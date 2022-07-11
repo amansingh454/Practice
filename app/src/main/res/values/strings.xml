@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Epify</string>
+    <string name="heading">S.</string>
+    <string name="title">First of the few steps to set \n you up with a Bank Account</string>
+    <string name="pan_number">PAN NUMBER</string>
+    <string name="birth_date">BIRTHDATE</string>
+    <string name="_05">05</string>
+    <string name="_1995">1995</string>
+    <string name="str_info">Providing PAN  Date Of Birth helps us find and fetch your KYC from a central registry by the government of India.<a href="https://learntodroid.com">Learn more</a></string>
+    <string name="next">Next</string>
+    <string name="str_no_pan">I don\'t have a PAN</string>
+    <string name="str_details_toast">Details Submitted Successfully</string>
+</resources>
